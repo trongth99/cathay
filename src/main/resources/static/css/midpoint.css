@@ -1,0 +1,14 @@
+
+
+.form-horizontal .control-label {
+	text-align: left;
+	font-weight: normal;
+}
+.tab-content .form-group{
+	padding: 5px;
+	margin-bottom: 0;
+}
+	
+.tab-content .stiper{
+	background: #f9f9f9;
+}

@@ -1,0 +1,244 @@
+.card-header>.card-tools-search {
+    float: left;
+}
+
+.group-btn-manager a {
+    background: #40A9FF;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    color: #ffffff !important;
+}
+
+.group-btn-manager a:hover {
+    cursor: pointer;
+}
+
+.color-BFBFBF {
+    color: #BFBFBF;
+}
+
+.icon-table {
+    padding: 0 3px;
+}
+
+.icon-table:hover {
+    cursor: pointer;
+}
+
+.sidebar-bg-primary,
+.content-wrapper {
+    background: #E5E5E5 !important;
+}
+
+.pagination li.page-item {
+    padding: 0 1px;
+}
+
+.pagination li.page-item a {
+    color: #000000;
+    border-radius: 5px !important;
+}
+
+.bg-F5F5F5 {
+    /* Grey / grey-3 */
+    background: #F5F5F5 !important;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.margin-15 {
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+}
+
+.btn-search {
+    background: #FFFFFF;
+    border: 1px solid #E8E8E8;
+    box-sizing: border-box;
+    width: 356px !important;
+    height: 48px !important;
+    border-radius: 8px !important;
+}
+
+.btn-search-frm {
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 4px;
+    display: flex !important;
+    align-items: center !important;
+    text-align: center !important;
+    color: #40A9FF !important;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 100 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    border: 1px solid #40A9FF !important;
+    box-sizing: border-box !important;
+    border-radius: 8px !important;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.title-delete {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+    /* Grey / grey-9 */
+    color: #262626;
+}
+
+#deleteForm .modal-footer {
+    display: unset;
+}
+
+.btn-delete {
+    opacity: 0.9;
+    border-radius: 8px !important;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center !important;
+    padding: 9px 60px !important;
+}
+
+.btn-close-popup {
+    position: absolute;
+    top: -30px;
+    background: #ffffff;
+    left: 48%;
+    border-radius: 50%;
+    padding: 0 4px 2px 4px !important;
+    line-height: 25px !important;
+}
+
+.bg-ffffff {
+    background: #ffffff !important;
+}
+
+#filterForm .modal-body {
+    padding: 40px 30px;
+}
+
+.scan-detail .card {
+    margin-bottom: unset !important;
+}
+.scan-detail {
+	margin-bottom: 70px;
+}
+.scan-detail .card .card-title,
+.scan-detail .btn-tool {
+    color: #262626 !important;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.nav-pills .nav-link :hover {
+    color: #8C8C8C !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #ffffff !important;
+    color: #8C8C8C !important;
+}
+
+.name-filter {
+    padding: 30px 15px;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.btn-add-data {
+    color: #40A9FF !important;
+    font-family: Roboto;
+    font-weight: 100 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    border: 1px solid #40A9FF !important;
+    box-sizing: border-box !important;
+    border-radius: 8px !important;
+}
+
+.div-add-data {
+    background-color: #ffffff;
+    text-align: right;
+    padding: 15px;
+}
+
+.padding-row .row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.padding-row .form-group {
+    margin-bottom: unset;
+}
+
+.btn-save-data {
+    background: #597EF7 !important;
+    border-radius: 8px !important;
+    padding: 9px 16px !important;
+    color: #ffffff !important;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+.modal-footer a {
+    color: #ffffff;
+}
+
+.scan-pic img {
+    width: 100%;
+}
+
+.bg-2EB553 {
+    background: #2EB553;
+}
+
+.btn-next {
+    background: #2EB553 !important;
+    padding: 9px 16px !important;
+    border-radius: 8px !important;
+    color: #ffffff !important;
+}
+
+.btn-view-data {
+    background: #40A9FF !important;
+    padding: 9px 16px !important;
+    border-radius: 8px !important;
+    color: #ffffff !important;
+}
+
+.btn-next a {
+    color: #ffffff !important;
+}
+
+.dialog-view-form {
+    min-width: 900px;
+}
+
+@media (min-width: 576px) {
+    .dialog-view-form .modal-dialog {
+        max-width: 900px !important;
+        margin: 1.75rem auto;
+    }
+}
+.card-footer {
+	background: none !important;
+	padding: 0 !important;
+}
